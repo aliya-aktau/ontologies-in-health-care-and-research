@@ -29,3 +29,10 @@
 | [Units of Measurement Ontology](https://bioportal.bioontology.org/ontologies/UO) | UO | Ontology  | units |  |  |
 
 ## Criteria and points of attention when developing a semantic model
+Some text
+
+## FHIR, ZIBs (HCIMs / CBBs) and how this relates to the above
+- [Fast Healthcare Interoperability Resources (FHIR)](https://www.hl7.org/fhir/)
+- [Zorg Informatie Bouwstenen (ZIBs) or Health Care Information Models (HCIMs) or Clinical Building Blocks (CBBs)](https://zibs.nl/wiki/HCIM_Mainpage)
+
+And some text
