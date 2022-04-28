@@ -29,7 +29,11 @@
 | [Units of Measurement Ontology](https://bioportal.bioontology.org/ontologies/UO) | UO | Ontology  | units |  |  |
 
 ## Criteria and points of attention when developing a semantic model
-Some text
+Here are the criteria for choosing ontologies:
+Popularity, most preferably if the term has complete and explicit definition
+Reuse of ontologies by other groups and communities
+Community relevance
+Governance and being up-to-date
 
 ## FHIR, ZIBs (HCIMs / CBBs) and how this relates to the above
 - [Fast Healthcare Interoperability Resources (FHIR)](https://www.hl7.org/fhir/)
